@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         隐藏腾讯课堂正在观看提示
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  利用CSS隐藏腾讯课堂正在观看提示*2022-09-08*
 // @author       Debbl
 // @match        https://ke.qq.com/webcourse/*
